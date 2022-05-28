@@ -54,7 +54,7 @@ orientation = portrait
 #
 
 #
- author = © Copyright Raunak Raj 2022
+#author = © Copyright Raunak Raj 2022
 
 # change the major version of python used by the app
 #osx.python_version = 3
