@@ -12,9 +12,13 @@ Then run `python main.py`
 - Extract data of video
 
 ## Screenshots 
+### 1
 ![first screen](https://raw.githubusercontent.com/hackerRaunak/RoyTube-App/main/1.jpg)
+### 2
 ![second screen](https://raw.githubusercontent.com/hackerRaunak/RoyTube-App/main/2.jpg)
+### 3
 ![third screen](https://raw.githubusercontent.com/hackerRaunak/RoyTube-App/main/3.jpg)
+### 4
 ![fourth screen](https://raw.githubusercontent.com/hackerRaunak/RoyTube-App/main/4.jpg)
 
 
