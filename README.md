@@ -11,5 +11,11 @@ Then run `python main.py`
 - Download audio only
 - Extract data of video
 
+## Screenshots 
+![first screen](https://raw.githubusercontent.com/hackerRaunak/RoyTube-App/main/1.jpg)
+![second screen](https://raw.githubusercontent.com/hackerRaunak/RoyTube-App/main/2.jpg)
+![third screen](https://raw.githubusercontent.com/hackerRaunak/RoyTube-App/main/3.jpg)
+![fourth screen](https://raw.githubusercontent.com/hackerRaunak/RoyTube-App/main/4.jpg)
+
 
 > Note :- If you got any bug please report it in issue section of github. 
